@@ -2,7 +2,7 @@
 
 A Character Editor for Tavern v2 spec Character (Compatible with SillyTavern, CHUB)
 
-This project is aimed to help creating and editing better characters which could be played on the following projects.
+This project is aimed to help character creators better creating and editing characters. (Using Tavern V2 PNG spec) Could be played used the following projects.
 
 * The editor is in very early stage of developing, welcome to contact us through [report issues](https://github.com/windameister/CharacterCraft/issues).
 
