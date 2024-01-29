@@ -6,7 +6,7 @@ This project is aimed to help creating and editing better characters which could
 
 * The editor is in very early stage of developing, welcome to contact us through [report issues](https://github.com/windameister/CharacterCraft/issues).
 
-Supported platform: [Windows](https://github.com/windameister/CharacterCraft/releases/download/v1.0.0.1/Character.Craft.win.x64.zip), [MacOS](https://github.com/windameister/CharacterCraft/releases/download/v1.0.0.1/Character.Craft.macOS.zip)
+Supported platform: [Windows](https://github.com/windameister/CharacterCraft/releases/download/v1.0.0.2/Character.Craft.win.x64.zip), [MacOS](https://github.com/windameister/CharacterCraft/releases/download/v1.0.0.2/Character.Craft.macOS.zip)
 
 ## LLM powered Roleplaying FrontEnds
 * [SillyTavern](https://github.com/SillyTavern/SillyTavern)
