@@ -12,6 +12,12 @@ Supported platform: [Windows](https://github.com/windameister/CharacterCraft/rel
 * [SillyTavern](https://github.com/SillyTavern/SillyTavern)
 * [CHUB](https://www.chub.ai/)
 
+## Main Feature of the Editor
+* Advanced Editing (Copilot editing / creation) (Use LLM to help create / edito your character)
+* Local Card Explore
+* Basic Editing features: Undo / Redo
+* Token counter (In OpenAI's tokenizer)
+* Run at once (Save your changes and immediately run your card to see the effect)
 
 ## Highlight feature of Character Craft (Editor)
 
@@ -30,10 +36,3 @@ Supported platform: [Windows](https://github.com/windameister/CharacterCraft/rel
 
 ### Custom Setting (Use your own API Key, custom the prompt for chatting & editing)
 ![Settings](images/settings.png)
-
-## Main Feature of the Editor
-* Card Explorer Management
-* Basic Editing (Undo / Redo)
-* Advanced Editing (Copilot editing / creation)
-* Run at once (Save your changes and immediately run your card to see the effect)
-
