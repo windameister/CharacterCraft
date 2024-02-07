@@ -1,12 +1,30 @@
 ## Character Craft
 
-A Character Editor for Tavern v2 spec Character (Compatible with SillyTavern, CHUB)
+An OpenSource Character Editor for Tavern v2 spec Character (Compatible with SillyTavern, CHUB) (Copilot your character creation and editing process)
 
 This project is aimed to help character creators better creating and editing characters. (Using Tavern V2 PNG spec) Could be played used the following projects.
 
 * The editor is in very early stage of developing, welcome to contact us through [report issues](https://github.com/windameister/CharacterCraft/issues).
 
-Supported platform: [Windows](https://github.com/windameister/CharacterCraft/releases/download/v1.0.0.2/Character.Craft.win.x64.zip), [MacOS](https://github.com/windameister/CharacterCraft/releases/download/v1.0.0.2/Character.Craft.macOS.zip)
+* To build the project, you'll need to install:
+
+	*  [flutter sdk](https://docs.flutter.dev/get-started/install)
+
+* Build Step:
+
+```
+cd editor
+# on mac
+flutter run -d macos 
+# on windows
+flutter run -d windows
+
+```
+
+
+* If you do not want to build yourself, you could also download the prebuilt binary package directly:
+
+Currently only tested on following supported platform: [Windows](https://github.com/windameister/CharacterCraft/releases/download/v1.0.0.2/Character.Craft.win.x64.zip), [MacOS](https://github.com/windameister/CharacterCraft/releases/download/v1.0.0.2/Character.Craft.macOS.zip)
 
 ## LLM powered Roleplaying FrontEnds
 * [SillyTavern](https://github.com/SillyTavern/SillyTavern)
